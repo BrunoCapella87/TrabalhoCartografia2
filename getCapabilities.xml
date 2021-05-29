@@ -170,13 +170,13 @@
 				<Styles></Styles>
 			</TileSet>
 			<CustomLayer>
-				<Name>GH:populaca_3__1_dot___2000_</Name>
-				<Title>populaca_3__1_dot___2000_</Title>
+				<Name>GH:centroide_populacao</Name>
+				<Title>centroide_populacao</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:centroide_populacao</Name>
-				<Title>centroide_populacao</Title>
+				<Name>GH:populaca_3__1_dot___2000_</Name>
+				<Title>populaca_3__1_dot___2000_</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
