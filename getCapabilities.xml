@@ -169,6 +169,11 @@
 				<Layers>GH:pontos_de_contagens</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:populaca_3__1_dot___2000_</Name>
+				<Title>populaca_3__1_dot___2000_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
